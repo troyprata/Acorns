@@ -11,7 +11,7 @@ Acorns is a financial technology and services company based on passive investing
 The company uses the convenience of mobile apps in order to help newly investors start building their portfolio.They are considered a fintech company since they operate completely within the digital domain of Finance.
 
 
-**Why is this company exemplary in the FinTech space? What are their strengths and weaknesses? **
+**Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?**
 
 It uses robo-advising as well as machine learning.Its an app that is very easy to use and very convenient.  It automatically invests your money into either short term or long term investments creating diversified portfolios for the individual using the service. Anyone can start investing with little to information on how to or where to invest their money. Some weaknesses are expensive fees and tailored more towards people who are forcing themselves to invest and save.
 
