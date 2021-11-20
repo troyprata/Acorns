@@ -1,5 +1,11 @@
 # Acorns
 
+# Description
+A class activity researching Acorns
+
+# Contributors
+
+Nitish and Troy
 
 **What is the background of your company? What do they do? Who are their competitors?**
 
