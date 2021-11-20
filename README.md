@@ -19,3 +19,7 @@ It uses robo-advising as well as machine learning.Its an app that is very easy t
 **What is the prognosis for this company? Where do they expect to be in the future?**
 
 I expect acorns to continue to grow due to the accessibility of it and will continue to be one of the top robo-advising apps in the fintech world. 
+
+
+
+![acorns-logo-300x81](https://user-images.githubusercontent.com/94656347/142737166-a25678a8-1c15-4501-b9ad-6870d9bad94e.png)
