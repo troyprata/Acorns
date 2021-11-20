@@ -8,7 +8,7 @@ Acorns is a financial technology and services company based on passive investing
 
 **2. How does this company use technology to their advantage? Why are they considered a FinTech company?**
 
-The company uses the convenience of mobile apps in order to help newly investors start building their portfolio. They are considered a fintech company since they operate completely within the digital domain of Finance.
+The company uses the convenience of mobile apps in order to help newly investors start building their portfolio.They are considered a fintech company since they operate completely within the digital domain of Finance.
 
 
 **3. Why is this company exemplary in the FinTech space? What are their strengths and weaknesses? **
