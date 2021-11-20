@@ -9,6 +9,7 @@ A class activity researching Acorns
 
 Nitish and Troy
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **What is the background of your company? What do they do? Who are their competitors?**
 
 Acorns is a financial technology and services company based on passive investing. It was founded in 2012 in order to encourage people to have incremental savings and investments when spending money. Every purchase made while using acorns is rounded up to the nearest dollar, with that remaining amount put into selected portfolios. Their competitors include Betterment, Robinhood, M1 Finance, and Digit. 
