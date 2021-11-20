@@ -1,4 +1,6 @@
 # Acorns
+![acorns-logo-300x81](https://user-images.githubusercontent.com/94656347/142737166-a25678a8-1c15-4501-b9ad-6870d9bad94e.png)
+
 
 # Description
 A class activity researching Acorns
@@ -28,4 +30,3 @@ I expect acorns to continue to grow due to the accessibility of it and will cont
 
 
 
-![acorns-logo-300x81](https://user-images.githubusercontent.com/94656347/142737166-a25678a8-1c15-4501-b9ad-6870d9bad94e.png)
